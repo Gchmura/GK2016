@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  z1p3.cpp
+c:\users\liberator\documents\visual studio 2015\projects\z1p3\z1p3\z1p3.cpp(47): warning C4244: 'argument': conversion from 'GLfloat' to 'int', possible loss of data
+  z1p3.vcxproj -> c:\users\liberator\documents\visual studio 2015\Projects\z1p3\Debug\z1p3.exe
