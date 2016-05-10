@@ -1,0 +1,6 @@
+﻿  z1p5.cpp
+c:\users\liberator\documents\visual studio 2015\projects\z1p5\z1p5\z1p5.cpp(26): warning C4018: '<': signed/unsigned mismatch
+c:\users\liberator\documents\visual studio 2015\projects\z1p5\z1p5\z1p5.cpp(27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z1p5\z1p5\z1p5.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\liberator\documents\visual studio 2015\projects\z1p5\z1p5\z1p5.cpp(33): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  z1p5.vcxproj -> C:\Users\Liberator\Documents\Visual Studio 2015\Projects\z1p5\Debug\z1p5.exe
