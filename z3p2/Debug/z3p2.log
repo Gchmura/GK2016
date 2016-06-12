@@ -1,0 +1,8 @@
+﻿  z3p2.cpp
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(456): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(461): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(513): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(515): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(517): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\liberator\desktop\grafika\z3p2\z3p2\z3p2.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  z3p2.vcxproj -> C:\Users\Liberator\Desktop\grafika\z3p2\Debug\z3p2.exe
