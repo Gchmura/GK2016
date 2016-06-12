@@ -1,0 +1,266 @@
+﻿  z3p3.cpp
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(17): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(17): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(22): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(22): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(32): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(32): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(39): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(39): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(46): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(46): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(51): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(51): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(63): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(63): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(77): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(77): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(84): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(84): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(89): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(89): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(94): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(94): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(99): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(99): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(106): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(106): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(113): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(113): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(118): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(118): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(123): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(123): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(130): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(130): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(144): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(144): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(151): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(151): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(156): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(156): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(163): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(163): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(170): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(170): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(177): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(177): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(184): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(184): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(189): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(189): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(196): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(196): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(201): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(201): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(208): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(208): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(213): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(213): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(218): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(218): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(223): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(223): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(228): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(228): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(233): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(233): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(240): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(240): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(245): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(245): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(250): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(250): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(255): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(255): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(260): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(260): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(265): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(265): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(270): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(270): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(275): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(275): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(287): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(287): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(292): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(292): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(299): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(299): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(304): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(304): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(311): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(311): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(318): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(318): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(325): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(325): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(332): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(332): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(339): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(339): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(344): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(344): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(351): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(351): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(358): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(358): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(365): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(365): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(372): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(372): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(377): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(377): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(382): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(382): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(387): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(387): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(392): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(392): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(397): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(397): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(402): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(402): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(407): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(407): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(412): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(412): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(417): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(417): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(422): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(422): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(427): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(427): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(432): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(432): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(437): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(437): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(442): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(442): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(447): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(447): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(452): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(452): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(466): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(466): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(473): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(473): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(487): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(487): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(492): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(492): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(497): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(497): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(502): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(502): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(507): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(507): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(512): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(512): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(517): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(517): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(522): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(522): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(527): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(527): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(532): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(532): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(537): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(537): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(542): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(542): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(547): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(547): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(552): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(552): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(557): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(557): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(564): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(564): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(569): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(569): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(576): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(576): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(584): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(584): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(591): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(591): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(598): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(598): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(603): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(603): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(608): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(608): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(615): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(615): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(622): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(622): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(627): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(627): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(632): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(632): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(637): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(637): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(642): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(642): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(649): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(649): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(656): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(656): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(661): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(661): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(668): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(668): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(680): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(680): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(685): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(685): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(692): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(692): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(699): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(699): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(704): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(704): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(709): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(709): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(714): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(714): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(721): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(721): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(728): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(728): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(735): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(735): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(742): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(742): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(749): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(749): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(756): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(756): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(763): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(763): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(770): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(770): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(777): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(777): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(784): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(784): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(791): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(791): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(798): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(798): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(812): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(812): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(819): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(819): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(824): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(824): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(836): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(836): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(850): warning C4838: conversion from 'double' to 'const GLfloat' requires a narrowing conversion
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\colors.h(850): warning C4305: 'initializing': truncation from 'double' to 'const GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\z3p3.cpp(240): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\z3p3.cpp(245): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\z3p3.cpp(275): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z3p3\z3p3\z3p3.cpp(277): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+  z3p3.vcxproj -> C:\Users\Liberator\Documents\Visual Studio 2015\Projects\z3p3\Debug\z3p3.exe
