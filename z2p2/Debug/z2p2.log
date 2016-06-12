@@ -1,0 +1,6 @@
+﻿  z2p2.cpp
+c:\users\liberator\desktop\grafika\z2p2\z2p2\z2p2.cpp(85): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\desktop\grafika\z2p2\z2p2\z2p2.cpp(86): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\desktop\grafika\z2p2\z2p2\z2p2.cpp(107): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\desktop\grafika\z2p2\z2p2\z2p2.cpp(108): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  z2p2.vcxproj -> C:\Users\Liberator\Desktop\grafika\z2p2\Debug\z2p2.exe
