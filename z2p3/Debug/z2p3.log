@@ -1,0 +1,10 @@
+﻿  z2p3.cpp
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(95): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(96): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(105): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(106): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(116): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(117): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(126): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liberator\documents\visual studio 2015\projects\z2p3\z2p3\z2p3.cpp(127): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  z2p3.vcxproj -> C:\Users\Liberator\Documents\Visual Studio 2015\Projects\z2p3\Debug\z2p3.exe
